@@ -5,7 +5,7 @@ import clock.VectorClock;
 /**
  * message sent through the network
  * 
- * @author gash1
+ * @author gagan
  * 
  */
 public class Message {

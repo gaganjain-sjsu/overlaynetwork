@@ -9,7 +9,7 @@ import java.util.ArrayList;
 /**
  * a ring is a closed line (daisy chained) group of services/nodes.
  * 
- * @author gash1
+ * @author gagan
  * 
  */
 public class Ring implements MessageTransport<Message> {

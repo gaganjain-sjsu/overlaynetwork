@@ -3,7 +3,7 @@ package messaging;
 /**
  * represents a node in the network
  * 
- * @author gash1
+ * @author gagan
  * 
  */
 public class RingNode extends Node<Message> {
